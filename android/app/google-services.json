@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "112791508721",
+    "project_id": "ninapet-76015",
+    "storage_bucket": "ninapet-76015.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112791508721:android:8170a4046058e317343b50",
+        "android_client_info": {
+          "package_name": "com.rocketseat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "112791508721-v5vd6jjrhcrbrpqeg8hs8opisikvcr6a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBCYC1numAW8fqoLKanvyCuoSKHz_XC-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "112791508721-v5vd6jjrhcrbrpqeg8hs8opisikvcr6a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
